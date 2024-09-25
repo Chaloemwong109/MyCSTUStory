@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body {
+    background-color: #ad8b6d;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#Chaloemwong {
+    width: 500px;
+    height: auto;
+    border: 5px double white;
+    box-shadow: 10px 10px #302929
+}
+
+.CONTACT {
+    font-size: 20px;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.cont {
+    margin: -30px;
+    padding-bottom: 40px;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 25px;
+}
+
+.fieldset {
+    border: 5px solid rgb(179, 35, 25);
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-left: 2em;
+    padding-right: 1.5em;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px;
+}
+
+h1 {
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 80px;
+}
+
+.MY {
+    font-size: 60px;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+
+
+
+
+table, th, td {
+    border:2px solid black;
+    border-collapse: collapse;
+    margin-top: 7px;
+}
+th {text-align: center;}
+td {padding-left: 10px;}
+
+article {float: right;
+margin-top: -45px;
+width: auto;}
+
+nav {float: left;
+    width: 30%;
+    height: 300px;
+padding-left: 200px;
+margin-top: -10px;
+}
+
+footer{padding: 10px;
+margin-top: 100px;}
+
+.fiel {border: 5px solid rgb(179, 35, 25);
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 0.625em;
+    padding-left: 2em;
+    padding-right: 0.75em;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px;
+margin-top: 350px;}
+
+    video {padding-left: 19%;}
